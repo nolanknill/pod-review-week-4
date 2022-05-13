@@ -10,11 +10,7 @@ Maple Leafs Hockey
 
 TypeScript, JavaScript, CSS
 
-I’ve been a web developer for more than ten years now (umm, has it been that long?), with everything from agencies, to small, scrappy startup teams, to bigger companies trying to reinvent slow-moving industries.
-
-The web is an exciting space which moves terrifyingly fast, and it also makes for a lifechanging career. I hope my real-world experiences can help you find your path through that.
-
-I lean towards frontend development, especially JavaScript frameworks and single-page web apps, but I am a full-stack developer and I’ve also dabbled in UX/UI design. I have a special fondness for the mysteries and miracles of CSS.
+I’ve been a web developer for more than ten years now (umm, has it been that long?), with everything from agencies, to small, scrappy startup teams, to bigger companies trying to reinvent slow-moving industries. I lean towards frontend development, especially JavaScript frameworks and single-page web apps, but I am a full-stack developer and I’ve also dabbled in UX/UI design. I have a special fondness for the mysteries and miracles of CSS.
 
 As well as how to design and write good, maintainable code, I care a lot about how we shape culture, connect with people, and make great places to work.
 
@@ -25,6 +21,8 @@ I’m super into music. I sing, play guitar, and direct a cappella community cho
 Teaching Assistant
 
 NBA Basketball
+
+Chrome Dev Tools, ReactJS, NPM
 
 Hello! I have previously worked in financial services and income tax industries doing various customer service roles but graduated from the University of Waterloo with a Bsc Biological Sciences. I have a passion for full stack web development and hope to continue to develop my skills while I help new learners who are also making the transition. Outside of coding my hobbies are playing/watching basketball and hockey. I love to travel and am a big car enthusiast.
 
@@ -50,6 +48,6 @@ Teaching Assistant
 
 Favourite Show: Rick & Morty
 
-Favourite programming tools: Framer
+Chakra UI, Next.js, Vite
 
 Hello! My name is Siulok! I’m recently graduated from the Web Development bootcamp. I'm one of the TAs for the Web Dev program and I'm super excited to meet and work with you guys in the following 12 weeks! Outside of class, I enjoy reading, hiking, and playing some board games with friends.
