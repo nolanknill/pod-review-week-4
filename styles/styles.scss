@@ -1,0 +1,40 @@
+@use "./partials/resets";
+@use "./partials/mixins" as *;
+@use "./partials/colors" as *;
+
+.header {
+    background-color: $color-primary;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem;
+    color: $color-primary-text;
+    border-bottom: 5px solid $color-secondary;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+    
+    &__title {
+        margin: 1rem 0;
+    }
+}
+
+
+.nav {
+    &__list {
+        @include reset-list;
+        display: flex;
+    }
+    
+    &__item {
+        margin: 0.5rem 0 0.5rem 1rem;
+    }
+    
+    &__link {
+        font-size: 1.25rem;
+        text-decoration: none;
+        color: inherit;
+        
+        &--active {
+            text-decoration: underline;
+        }
+    }
+}
